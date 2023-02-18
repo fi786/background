@@ -1,7 +1,7 @@
 #this is an online mechanic it allows a user to find what the problem with their car might be
 
 print("Welcome to Halfords online mechanic service.")
-
+print('changes made')
 
 file = open("diagnose.txt","r")
 issue=input("What is your automobile related issue")
